@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+    <IncidentDef>
+        <defName>OrganicIdeology_CultureChange</defName>
+        <label>ideology change</label>
+        <baseChance>1.0</baseChance>
+        <category>Misc</category>
+        <minRefireDays>45</minRefireDays>
+        <targetTags>
+            <li>Map_PlayerHome</li>
+        </targetTags>
+        
+        <letterLabel>Ideology Change</letterLabel>
+        <letterDef>IdeologyChangeLetter</letterDef>
+        <letterText>The diversity in ideologies surrounding your colony has opened up the minds of your colonists up to a change.
+            
+Your colonists are debating on adopting the following changes from {0}:
+
+{1}</letterText>
+        
+        
+        <workerClass>OrganicIdeology.IncidentWorker_IdeologyChange</workerClass>
+    </IncidentDef>
+</Defs>

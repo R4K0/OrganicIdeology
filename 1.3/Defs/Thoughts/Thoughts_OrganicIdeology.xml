@@ -1,0 +1,14 @@
+<Defs>
+    <ThoughtDef>
+        <defName>OrganicIdeologySadChange</defName>
+        <durationDays>5</durationDays>
+        <validWhileDespawned>true</validWhileDespawned>
+        <stages>
+            <li>
+                <label>beliefs changed</label>
+                <description>I can't believe we've changed our beliefs so easily. Everything we stood for before seems fake.</description>
+                <baseMoodEffect>-8</baseMoodEffect>
+            </li>
+        </stages>
+    </ThoughtDef>
+</Defs>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+    <LetterDef ParentName="CustomChoiceLetterBase">
+        <defName>IdeologyChangeLetter</defName>
+        <color>(0, 150, 0)</color>
+        <flashInterval>-1</flashInterval>
+
+        <letterClass>OrganicIdeology.IdeologyChangeLetter</letterClass>
+    </LetterDef>
+</Defs>
