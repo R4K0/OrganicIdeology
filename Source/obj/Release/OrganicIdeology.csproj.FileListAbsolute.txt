@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\OrganicIdeology\1.3\Assemblies\OrganicIdeology.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\OrganicIdeology\1.3\Assemblies\OrganicIdeology.pdb
+E:\Programming\OrganicIdeology\obj\Release\OrganicIdeology.csprojAssemblyReference.cache
+E:\Programming\OrganicIdeology\obj\Release\OrganicIdeology.csproj.CoreCompileInputs.cache
+E:\Programming\OrganicIdeology\obj\Release\OrganicIdeology.dll
+E:\Programming\OrganicIdeology\obj\Release\OrganicIdeology.pdb
